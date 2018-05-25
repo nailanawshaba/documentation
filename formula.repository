@@ -1,0 +1,83 @@
+\form#0:$output = input1 \cup input2$
+\form#1:$ output = input1 \cap input2 $
+\form#2:$ c, \mathbf{R}, $
+\form#3:$ \mathbf{t} $
+\form#4:\begin{align*} \frac{1}{n} \sum_{i=1}^n \vert\vert y_i - (c\mathbf{R}x_i + \mathbf{t}) \vert\vert_2^2 \end{align*}
+\form#5:$ \Sigma_{\mathbf{x}\mathbf{y}} \in \mathbb{R}^{d \times d} $
+\form#6:$ \mathbf{x} $
+\form#7:$ \mathbf{y} $
+\form#8:$d$
+\form#9:$O(d^3)$
+\form#10:$O(dm)$
+\form#11:$d \times m$
+\form#12:$ \mathbf{x} = \left( x_1, \hdots, x_n \right) $
+\form#13:$ \mathbf{y} = \left( y_1, \hdots, y_n \right) $
+\form#14:$ c=1 $
+\form#15:\begin{align*} T = \begin{bmatrix} c\mathbf{R} & \mathbf{t} \\ \mathbf{0} & 1 \end{bmatrix} \end{align*}
+\form#16:$\frac{\lambda_0}{\lambda_0 + \lambda_1 + \lambda_2}$
+\form#17:$\lambda_0 < \lambda_1 < \lambda_2$
+\form#18:$\pi / 2.0$
+\form#19:\[ \lambda_0 / (\lambda_0 + \lambda_1 + \lambda_2) \]
+\form#20:$ \mu \pm \sigma \cdot std\_mul $
+\form#21:\[ \mu \pm \sigma \cdot std\_mul \]
+\form#22:$ \mu $
+\form#23:$ \sigma $
+\form#24:$ x $
+\form#25:$ \vec{p} $
+\form#26:$ p $
+\form#27:$ \delta \vec{p} $
+\form#28:$ \alpha_0 $
+\form#29:$ \alpha_max $
+\form#30:$ \alpha_min $
+\form#31:$ f(x + \alpha p) $
+\form#32:$ score $
+\form#33:$ f'(x + \alpha p) $
+\form#34:$ \vec{g} $
+\form#35:$ f''(x + \alpha p) $
+\form#36:$ H $
+\form#37:$ X $
+\form#38:$ T(\vec{p},\vec{x}) $
+\form#39:$ I $
+\form#40:$ \psi(\alpha_k) \leq 0 $
+\form#41:$ \phi'(\alpha_k) \geq 0 $
+\form#42:$ \alpha_l $
+\form#43:$ f_l $
+\form#44:$ \psi(\alpha_l) $
+\form#45:$ \phi(\alpha_l) $
+\form#46:$ g_l $
+\form#47:$ \psi'(\alpha_l) $
+\form#48:$ \phi'(\alpha_l) $
+\form#49:$ \alpha_u $
+\form#50:$ f_u $
+\form#51:$ \psi(\alpha_u) $
+\form#52:$ \phi(\alpha_u) $
+\form#53:$ g_u $
+\form#54:$ \psi'(\alpha_u) $
+\form#55:$ \phi'(\alpha_u) $
+\form#56:$ \alpha_t $
+\form#57:$ f_t $
+\form#58:$ \psi(\alpha_t) $
+\form#59:$ \phi(\alpha_t) $
+\form#60:$ g_t $
+\form#61:$ \psi'(\alpha_t) $
+\form#62:$ \phi'(\alpha_t) $
+\form#63:$ \psi(\alpha_k) $
+\form#64:$ f_k $
+\form#65:$ g_k $
+\form#66:$ \phi(\alpha_k) $
+\form#67:$ \psi(\alpha) $
+\form#68:$ \alpha $
+\form#69:$ \phi(\alpha) $
+\form#70:$ \phi(0) $
+\form#71:$ \phi'(0) $
+\form#72:$ \psi'(\alpha) $
+\form#73:$ \phi'(\alpha) $
+\form#74:$ J_E $
+\form#75:$ H_E $
+\form#76:\[ MAD = \sigma * median_i (| Xi - median_j(Xj) |) \]
+\form#77:$\in [0 100]$
+\form#78:$\in [0 \infty]$
+\form#79:\[ \tilde{S}_p = \frac{1}{k_p} \sum_{q_d \in \Omega} {S_{q_d} f(||p_d - q_d|| g(||\tilde{I}_p-\tilde{I}_q||}) \]
+\form#80:$\sigma_{color}$
+\form#81:$\sigma_{depth}$
+\form#82:$ exp(1- alpha ( w - w_{min}) / (w_max - w_min)) $
